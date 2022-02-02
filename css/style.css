@@ -31,11 +31,12 @@ header div img  {
 
 .col-bg {
     background-color: #2e3a46;
-    height: 100%;
+    margin-bottom: 2em;
+    margin-right: 2em;
 }
 
 h2 {
-    font-size: 1.2em;
+    font-size: 1.2em !important;
     color: white;
     text-align: center;
     text-transform: uppercase;

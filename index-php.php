@@ -17,7 +17,7 @@
     <?php include_once __DIR__ . '/partials/header.php' ?>
     <main class="bg">
         <div class="container">
-            <div class="row row-cols-5 pt-5 gx-3">
+            <div class="row row-cols-6 pt-5 gx-3">
                     <?php include __DIR__ . '/partials/cards.php' ?>
                 </div>
         </div>
