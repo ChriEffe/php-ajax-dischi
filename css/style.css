@@ -1,0 +1,48 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html  {
+    font-size: 100%;
+}
+
+.bg {
+    background-color: #1e2d3b;
+    height: 100%;
+}
+h1 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+header div {
+    height: 80px;
+    background-color: #2e3a46;
+    display: flex;
+    align-items: center;
+}
+
+header div img  {
+    width: 50px;
+}
+
+.col-bg {
+    background-color: #2e3a46;
+    height: 100%;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+}
+h3, h4 {
+    color: #808080;
+    text-align: center;
+    font-size: 0.7em;
+}
